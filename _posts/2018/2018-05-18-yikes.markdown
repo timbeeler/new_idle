@@ -1,0 +1,12 @@
+---
+layout: "post"
+title: "Yikes"
+date: "2018-05-18 15:37"
+---
+In 2013, My boss at the time told me about the [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) in Japan and how the event disrupted the transportation infrastructure. He described the impact from his first hand observations.
+
+I started to ask myself what and how would I ensure that my family was "OK" in such an event. He had started this rough document as a call to action for his family. I adopted and added to it. I share it as a template for you, the idea is that you would add to it and ensure that you and your family is prepared when a major event occurs.
+
+I have been sharing this document for a few years and by adding it to Github, I hope that others will edit and contribute to it.
+
+[Emergency Action Plan](/Yikes.md)
